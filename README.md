@@ -1,2 +1,2 @@
-# JavaCore
+# CameraTestDemo
 video surveillance demo.
