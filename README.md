@@ -1,2 +1,2 @@
 # JavaCore
-StudyCore
+video surveillance demo.
